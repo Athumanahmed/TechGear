@@ -1,0 +1,17 @@
+body{
+    font-family: "Roboto",san-serif;
+}
+
+header{
+    background:linear-gradient(180deg, #c4b6fd,#93acfc)
+}
+
+.btn-primary{
+    background-color: #0a58ca !important;
+    border: none;
+}
+
+.blue-bg{
+    background-color: #3974ce;
+    color: #fff;
+}
